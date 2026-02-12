@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 string subject;
-cout<< " اكتب اسم الماده"
+cout<< " اكتب اسم الماده";
 getline(cin, subject);
 cout<<"تبا للماده" <<subject << endl;
 return 0;
